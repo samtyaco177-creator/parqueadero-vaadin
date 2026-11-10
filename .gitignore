@@ -1,0 +1,8 @@
+target/
+.idea/
+.vscode/
+*.iml
+node_modules/
+.DS_Store
+# Los TXT de datos se suben con ejemplos o se guardan como datos locales según la entrega.
+oracleJdk-27/
